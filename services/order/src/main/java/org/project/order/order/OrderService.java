@@ -44,7 +44,6 @@ public class OrderService {
 
         // start payment process
 
-
         // send the order confirmation --> notifications-microservice (kafka)
         return null;
     }
